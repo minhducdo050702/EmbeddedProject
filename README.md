@@ -2,6 +2,7 @@
 Dinogame with esp32
 Link wowki: https://wokwi.com/projects/383207163259064321
 ![Hình ảnh mô phỏng](circuits.png)
+![Hình ảnh thực tế](Real.jpg)
 # Giới thiệu
 Trò chơi khủng long Dino (Google Chrome Dinosaur Game), được biết đến khi không có kết nối Internet trên trình duyệt Chrome. Trò chơi bao gồm một chú khủng long nhảy qua các chướng ngại vật xuất hiện ngẫu nhiên (cây).  Người chơi cần tránh va chạm với các vật thể, và điểm số sẽ tăng theo thời gian chơi.
 
